@@ -22,7 +22,7 @@ export const siteConfig: SiteConfig = {
 	},
 	// webmentions: {
 		// link: "https://webmention.io/astro-theme-cactus.chriswilliams.dev/webmention",
-	},
+	//},
 };
 
 // Used to generate links in both the Header & Footer.
