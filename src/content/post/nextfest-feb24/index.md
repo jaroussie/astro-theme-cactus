@@ -20,7 +20,7 @@ tags: ["games", "review"]
 
 ## Flock
 
-![Flock game capsule](./Flock.jpg)
+![Flock game capsule](./flock.jpg)
 
 ## Gift
 
@@ -40,4 +40,4 @@ tags: ["games", "review"]
 
 ## Standalone
 
-![Standalone game capsule](./stadalone.jpg)
+![Standalone game capsule](./standalone.jpg)
