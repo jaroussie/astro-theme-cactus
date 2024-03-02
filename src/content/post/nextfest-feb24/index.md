@@ -1,6 +1,6 @@
 ---
 title: "Interesting looking capsules from Steam Next Fest in 2021"
-description: "This post is for testing and listing a number of different markdown elements"
+description: "I played about 56 Demos during Steam's February 2024 Next Fest, here are some of them that caught my eyes."
 publishDate: "14 Feb 2024"
 tags: ["games", "review"]
 ---
