@@ -30,9 +30,9 @@ tags: ["games", "review"]
 
 ![Indika game capsule](./indika.jpg)
 
-## Mizino
+## Mizi, No!
 
-![Mizino game capsule](./mizino.jpg)
+![Mizi, No! game capsule](./mizino.jpg)
 
 ## Orrstead
 
